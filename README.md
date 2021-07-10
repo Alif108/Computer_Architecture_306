@@ -11,11 +11,13 @@ The repository contains the sessional works I and my friends did in **Computer A
 
 ## offline_3
 ### 8 Bit MIPS Design
-Create an "input.txt" file which will contain the 8086 assembly code. Compile it with the CPP file and a machine code will be generated. Load the bin file in the ROM (Instruction Memory) of the circuit.  
+Create an "input.txt" file which will contain the 8086 assembly code. Compile it with the CPP file and a machine code will be generated. Load the bin file in the ROM (Instruction Memory) of the circuit.
+Load the "control_unit.bin" in the Control Unit ROM.  
 
 ## offline_4
 ### 8 Bit MIPS Pipelined Execution
 Create an "input.txt" file which will contain the 8086 assembly code. Compile it with the CPP file and a machine code will be generated. Load the bin file in the ROM (Instruction Memory) of the circuit.
+Load the "control_unit.bin" in the Control Unit ROM. 
 
 ## team members
 - Farhana Khan
